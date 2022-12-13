@@ -32,6 +32,7 @@ body {
     font-size: 20px;
 }
 
+/*Pretty sure this is the bit that is wrong */
 .header div ul {
     list-style-type: none;
 }
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*This needs to stay as a .hero tag */
 .hero {
     height: 800px;
     width: 100%;
