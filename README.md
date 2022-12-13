@@ -5,7 +5,7 @@ The goal of this assignment...
 
 
 Make sure to include the link to your final project
-[Click here to see my final project](https://address-here).
+[Click here to see my final project](https://greg-trahan.github.io/01-semantic-html/).
 
 Make sure to include a representative screenshot of the final project. Put the screenshot in the assets folder.
 ![This is a screenshot of the final page](./assets/images/digital-marketing-meeting.jpg)
